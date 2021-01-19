@@ -1,6 +1,7 @@
-#あのね
+## あのね
 
-Maulana Hidayatullah マウラナ
+Maulana Hidayatullah
+マウラナ
 
 email : atomx361@gmail.com
 
